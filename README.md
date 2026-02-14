@@ -45,5 +45,6 @@ pip install -e 'git+https://github.com/westurner/minifylet#egg=minifylet[dev]'
 Run tests:
 
 ```bash
-make test
+pytest
+# pytest -v --cov=minifylet --cov-report=term-missing
 ```
