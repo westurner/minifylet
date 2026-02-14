@@ -1,0 +1,3 @@
+"""
+minifylet.__init__
+"""
